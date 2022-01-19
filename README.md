@@ -1,7 +1,7 @@
 # Swiggy-Landing-Page
 
 ## Preview:
-[https://ketankarki.github.io/eBird-Site-Clone/index.html](https://ketankarki.github.io/eBird-Site-Clone/index.html)
+[https://tanya181818.github.io/Swiggy-Landing-Page/](https://tanya181818.github.io/Swiggy-Landing-Page/)
 
 This is a landing page of Swiggy made with the help of HTML and CSS only.
 To visit the original site, [Click Here](https://www.swiggy.com)
